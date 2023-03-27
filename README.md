@@ -16,21 +16,7 @@ ESP32
  CANbus
  PWM  
 
- /*GPIO:
- *  1. Digital
- *    digitalRead(pin);
- *    digitalWrite(pin,state);
- *  
- *  2. Analog
- *    analogRead(pin);
- *    analogReadResolution(0->12);
- *  3. PWM: <esp32-hal-ledc.h>
- *  
- *  Setup: 
- *    ledcSetup(chanel,freg,res);
- *    ledcAttachPin(pin,chanel);
- *  Start:
- *    ledcWrite(chanel,duty cycle);
- *    
- * 
- */
+ 
+   
+
+
